@@ -5,7 +5,6 @@ Script to install and configure my terminal profile using my own dotfiles.
 It's a very simple setup, it consists of:
 - [tilix](https://github.com/gnunn1/tilix)
 - [zsh](https://www.zsh.org/)
-- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## To run the script
@@ -19,4 +18,4 @@ Then, run the script using:
 ```
 sudo ./runme.sh
 ```
-The tilix, zsh and powerlevel10k config files are located in the `conf` folder, so copy your dotfiles in there if you want to use the script with your own config files.
+
