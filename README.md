@@ -1,6 +1,8 @@
 # What is this for?
 Script to install and configure my terminal profile using my own dotfiles.
 
+UNMAINTAINED: This script may no longer works, since I don't use it anymore. My actual configuration can be found in my [dotfiles repository.](https://github.com/ariasmn/dotfiles)
+
 ## My terminal configuration
 It's a very simple setup, it consists of:
 - [tilix](https://github.com/gnunn1/tilix)
